@@ -1,0 +1,16 @@
+Bug-ID: 
+  Title: 
+  Project: Сайт магазина 'Malina'
+  STR: 
+    1. 
+    2. 
+    3. 
+  AR: 
+  ER: 
+  Environment:
+    OS : 
+    Browser : 
+  Severity: 
+  Priority:
+  Status: 
+  Author:
