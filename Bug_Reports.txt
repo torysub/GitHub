@@ -1,6 +1,8 @@
 Bug-ID: 
   Title: 
-  Project: Сайт магазина 'Malina'
+  Project:
+  Severity: 
+  Priority:
   STR: 
     1. 
     2. 
@@ -10,7 +12,5 @@ Bug-ID:
   Environment:
     OS : 
     Browser : 
-  Severity: 
-  Priority:
-  Status: 
-  Author:
+  
+  
